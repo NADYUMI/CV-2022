@@ -45,7 +45,7 @@
   vertical-align: middle;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   margin-right: 20px;
-  background: rgba(44, 44, 44, 0.2); }
+  background: rgba(110, 233, 247, 0.221); }
 
 .bootstrap-switch .bootstrap-switch-container {
   display: inline-flex;
@@ -85,12 +85,12 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
   color: #fff;
-  background: #2CA8FF; }
+  background: #5ae0e7; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-green {
   color: #fff;
-  background: #35d0c6; }
+  background: #64eff9; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-orange,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-orange {
